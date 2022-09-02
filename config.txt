@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-01-01",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "臭宝宝，今天一样要给我撒娇娇哦！",
+"note_ch": "呜呜呜呜，今天好想你😭",
 # 金句英文
-"note_en": "Smelly baby, today will give me jiao oh"
+"note_en": "I miss you so much today!"
 }
